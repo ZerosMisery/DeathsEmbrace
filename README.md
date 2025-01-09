@@ -2,7 +2,7 @@ Description: Adds a new expert level, offensive alteration/destruction mix spell
 
 You can buy the spell tome from Tolfdir at the College of Winterhold. You will need the Expert Alteration perk to purchase it.
 
-The spell has a mix of alteration and destruction, but the game engine, the Creation Kit, registers it as alteration. So when you have the spell, look for it under alteration.
+The spell has a mix of alteration and destruction, but the game engine, the Creation Engine (and the CK), registers it as alteration. So when you have the spell, look for it under alteration.
 
 Spell:
 - Deals fire, shock, and frost damage.
